@@ -22,3 +22,6 @@ plotly>=5.13.1
 
 # Testing
 pytest>=7.0.0
+
+# Model Interpretation
+shap>=0.40.0
